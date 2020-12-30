@@ -1,5 +1,5 @@
-Hola soy Diego.
+Hola soy Diego Andrés.
 
-Mi hermano Jhon es geis.
+Mi hermano Jhon no es geis.
 
-Mi perro se llama Ringo.
+Mi perro se llama Ringo y mi gata se llama Paca.

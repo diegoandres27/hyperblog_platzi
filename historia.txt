@@ -6,6 +6,8 @@ Mi perro se llama Ringo.
 
 Experimento 1
 
+Experimento 2
+
 Acá empieza mi historia como Andrés Salazar y estoy muy feliz
 
 Yo, Andrés, ya no trabajo directamente con el proyecto. Ahora colaboro como externo
